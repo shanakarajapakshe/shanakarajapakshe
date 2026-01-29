@@ -2,7 +2,7 @@
   <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="120px"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm C. Shanaka Lakshitha Rajapakse</h1>
+<h1 align="center">Hi 👋, I'm Shanaka Rajapakse</h1>
 
 <p align="center">
   <a href="https://github.com/shanakarajapakshe">

@@ -1,136 +1,58 @@
-<p align="center">
-  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="120px"/>
-</p>
-
-<h1 align="center">Hi 👋, I'm Shanaka Rajapakse</h1>
+﻿# Shanaka Rajapakshe
 
 <p align="center">
-  <a href="https://github.com/shanakarajapakshe">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer;IT+Administrator;UI%2FUX+Designer;Tech+Generalist;Always+Learning+New+Things&center=true&width=520&height=45">
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&pause=1000&color=0E75B6&center=true&vCenter=true&width=800&lines=IT+Administrator;System+Administrator;Google+Workspace+%7C+Networking+%7C+Security;Open+to+Netherlands+opportunities" alt="Typing intro" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shanakarajapakshe&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+  IT Administrator and Software Engineering graduate focused on secure infrastructure, support workflows, and practical business tools.
 </p>
-
----
-
-## 👨‍💻 About Me
-
-<table align="center">
-<tr>
-<td width="55%" align="left">
-
-- 🎓 **BSc (Hons) Software Engineering (2nd Upper)** – Cardiff Metropolitan University  
-- 💼 **IT Administrator / System Administrator**  
-- 🌐 Hands-on with **IT Infrastructure, Networking, Security & Support**
-- 🎨 **UI/UX Designer & Frontend Developer**
-- 🌱 Currently learning **MERN Stack & CCNA**
-- 🧠 Strong in **problem-solving, automation & user support**
-- 💬 Ask me about **IT Support, Networking, UI/UX, Web Development**
-- 📫 Reach me at **shanakarajapakshe@gmail.com**
-
-</td>
-
-<td width="45%" align="center">
-
-### 🐍 GitHub Contribution Snake
-<img src="https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg" width="420"/>
-
-</td>
-</tr>
-</table>
-
----
-
-## 📊 GitHub Statistics
-
-<table align="center">
-<tr>
-<td width="50%" align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=shanakarajapakshe&show_icons=true&theme=dark&count_private=true" />
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shanakarajapakshe&theme=dark" />
-
-</td>
-
-<td width="50%" align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanakarajapakshe&theme=dark&layout=compact&langs_count=10"/>
-
-</td>
-</tr>
-</table>
-
----
-
-## 🛠️ Languages, Tools & Technologies
-
-### 💻 Programming & Web
-<p align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
-</p>
-
-### 🎨 UI / UX & Creative
-<p align="center">
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/>
-<img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="40"/>
-</p>
-
-### 🖥️ IT, Systems & Networking
-<p align="center">
-<img src="https://img.icons8.com/color/48/windows-10.png"/>
-<img src="https://img.icons8.com/color/48/linux.png"/>
-<img src="https://img.icons8.com/color/48/router.png"/>
-<img src="https://img.icons8.com/color/48/server.png"/>
-<img src="https://img.icons8.com/color/48/network.png"/>
-</p>
-
----
-
-## 🤝 Connect With Me
 
 <p align="center">
-<a href="https://linkedin.com/in/shanaka-rajapakshe" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/>
-</a>
-<a href="https://fb.com/shanakarajapaksh" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="40"/>
-</a>
-<a href="https://instagram.com/shanaka_rajapakshe" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40"/>
-</a>
-<a href="https://www.behance.net/lakshitrajapak" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" width="40"/>
-</a>
+  <a href="mailto:shanakarajapakshe@gmail.com">Email</a> |
+  <a href="https://www.linkedin.com/in/shanaka-rajapakse/">LinkedIn</a> |
+  <a href="https://github.com/shanakarajapakshe">GitHub</a>
 </p>
 
----
+## About Me
 
-## ☕ Support Me
+- IT Administrator with hands-on experience in Google Workspace, user management, endpoint support, networking, and security controls.
+- Software Engineering graduate who also builds internal tools, dashboards, and automation-focused applications.
+- Comfortable working across support, infrastructure, documentation, and business process improvement.
+- Open to IT Administrator, System Administrator, IT Support, and Cloud / Operations roles.
 
-<p align="center">
-<a href="https://www.buymeacoffee.com/shanakarajapakshe">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="210"/>
-</a>
-</p>
+## Core Strengths
 
----
+- Google Workspace administration
+- Network setup and troubleshooting
+- Endpoint and asset management
+- Security, access control, and compliance support
+- Internal tools, dashboards, and workflow automation
+- Python, JavaScript, Flutter, Node.js, Electron.js
 
-<p align="center">
-  <i>"Technology is best when it brings people together."</i>
-</p>
+## Featured Projects
+
+- [IT Assets Management System](https://github.com/shanakarajapakshe/it-assets-management-system)
+  - Internal asset tracking and admin workflow system
+  - Useful for office inventory and hardware management
+
+- [Project Cost Management Dashboard](https://github.com/shanakarajapakshe/project-cost-management-dashboard)
+  - Business dashboard for tracking project cost and reporting
+
+- [NuroMood - AI-based Mental Health Monitoring App](https://github.com/shanakarajapakshe/NuroMood---AI-based-Mental-Health-Monitoring-App)
+  - Flask backend + Flutter frontend
+  - Good example of full-stack delivery and product thinking
+
+- [Concrete Strength Predictor](https://github.com/shanakarajapakshe/concrete-strength-predictor)
+  - Data-driven prediction project with practical ML use
+
+- [Car Cab](https://github.com/shanakarajapakshe/car_cab)
+  - Service-style application with real workflow structure
+
+## Current Goal
+
+Looking for opportunities where I can contribute on the IT operations side while continuing to build strong software and automation skills.
+
+## Contact
+
+If you want to reach out about a role or collaboration, email me at [shanakarajapakshe@gmail.com](mailto:shanakarajapakshe@gmail.com).

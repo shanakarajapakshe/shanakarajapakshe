@@ -1,11 +1,11 @@
 ﻿# Shanaka Rajapakshe
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&pause=1000&color=0E75B6&center=true&vCenter=true&width=800&lines=IT+Administrator;System+Administrator;Google+Workspace+%7C+Networking+%7C+Security;Open+to+Netherlands+opportunities" alt="Typing intro" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&pause=1000&color=0E75B6&center=true&vCenter=true&width=900&lines=System+Administrator;Google+Workspace+%7C+Networking+%7C+Security;Open+to+Netherlands+opportunities" alt="Typing intro" />
 </p>
 
 <p align="center">
-  IT Administrator and Software Engineering graduate focused on secure infrastructure, support workflows, and practical business tools.
+  IT Administrator and Software Engineering graduate helping teams with secure infrastructure, support workflows, and practical business tools.
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@
 - IT Administrator with hands-on experience in Google Workspace, user management, endpoint support, networking, and security controls.
 - Software Engineering graduate who also builds internal tools, dashboards, and automation-focused applications.
 - Comfortable working across support, infrastructure, documentation, and business process improvement.
-- Open to IT Administrator, System Administrator, IT Support, and Cloud / Operations roles.
+- Open to System Administrator, IT Administrator, IT Support, and Cloud / Operations roles.
 
 ## Core Strengths
 

@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:shanakarajapakshe@gmail.com">Email</a> |
+  <a href="mailto:rajapaksheshanaka@gmail.com">Email</a> |
   <a href="https://www.linkedin.com/in/shanaka-rajapakse/">LinkedIn</a> |
   <a href="https://github.com/shanakarajapakshe">GitHub</a>
 </p>
@@ -55,4 +55,4 @@ Looking for opportunities where I can contribute on the IT operations side while
 
 ## Contact
 
-If you want to reach out about a role or collaboration, email me at [shanakarajapakshe@gmail.com](mailto:shanakarajapakshe@gmail.com).
+If you want to reach out about a role or collaboration, email me at [shanakarajapakshe@gmail.com](mailto:rajapaksheshanaka@gmail.com).
